@@ -1,5 +1,0 @@
-F:\sam\Diary\200311\OneClickOpenMstsc\ConsoleApp1\obj\Release\Interop.NetFwTypeLib.dll
-F:\sam\Diary\200311\OneClickOpenMstsc\ConsoleApp1\obj\Release\ConsoleApp1.csproj.ResolveComReference.cache
-F:\sam\Diary\200311\OneClickOpenMstsc\ConsoleApp1\bin\Release\一键开启远程桌面.exe
-F:\sam\Diary\200311\OneClickOpenMstsc\ConsoleApp1\obj\Release\一键开启远程桌面.exe
-F:\sam\Diary\200311\OneClickOpenMstsc\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
