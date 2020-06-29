@@ -1,0 +1,6 @@
+F:\sam\Diary\200311\OneClickOpenMstsc\App\bin\Release\一键开启远程桌面.exe
+F:\sam\Diary\200311\OneClickOpenMstsc\App\obj\Release\App.csprojAssemblyReference.cache
+F:\sam\Diary\200311\OneClickOpenMstsc\App\obj\Release\Interop.NetFwTypeLib.dll
+F:\sam\Diary\200311\OneClickOpenMstsc\App\obj\Release\App.csproj.ResolveComReference.cache
+F:\sam\Diary\200311\OneClickOpenMstsc\App\obj\Release\App.csproj.CoreCompileInputs.cache
+F:\sam\Diary\200311\OneClickOpenMstsc\App\obj\Release\一键开启远程桌面.exe
